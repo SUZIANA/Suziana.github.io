@@ -1,0 +1,34 @@
+body{
+	font-family: Calibri, Arial, sans-serif;
+	font-size: 20px;
+	color: #AEF3EF;
+	line-height: 1.3;
+
+}
+header {
+	background-color: #35A67C;
+	padding: 20px;
+}
+h1	{
+	color: #ffffff;
+	text-decoration: none;
+
+}
+nav a {
+	color:#cccccc;
+	font-style: italic;margin-right: 10px;
+
+}
+
+img	{
+	width: 100%;
+}
+
+ul, ol {
+	padding-left: 20px;
+}
+footer {
+	background-color: #EB4492;
+	padding: 15 px;
+	text-align: center;
+}
