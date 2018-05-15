@@ -6,7 +6,7 @@ body{
 
 }
 header {
-	background-color: #35A67C;
+	background-color: #FFED74;
 	padding: 20px;
 }
 h1	{
@@ -15,7 +15,7 @@ h1	{
 
 }
 nav a {
-	color:#cccccc;
+	color:#E8C66A;
 	font-style: italic;margin-right: 10px;
 
 }
@@ -28,7 +28,14 @@ ul, ol {
 	padding-left: 20px;
 }
 footer {
-	background-color: #EB4492;
+	background-color: #FF957E;
 	padding: 15 px;
 	text-align: center;
+}
+
+article {
+	color: #E89C6C
+}
+div, section {
+	color: #FFE2B8
 }
