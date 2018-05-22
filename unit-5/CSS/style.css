@@ -1,47 +1,34 @@
-<style>
-@import url(https://fonts.googleapis.com/css?family=Fjalla+One);
-</style>
-<style>
-@import url(https://fonts.googleapis.com/css?family=Crimson+Text|Fjalla+One');
-</style>
-
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Fjalla+One');
 * {margin:0;padding:0;box-sizing:border-box;}
 body{
-	font-family: Crimson Text, serif;
-	font-size: 30px;
-	color: 0, 0, 0;
+	font-family: 'Crimson Text', serif;
+	font-size: 20px;
+	color: #000;
 	line-height: 1.3;
-
 }
 section {
 	padding:5em 0;
-
 }
 header {
 	background-color: #35A67C;
-	padding: 20px;
-	
-	
 }
 h1, h2	{
 	color:#E80C7A;
-	margin-left: 1em;
-	font-family: Fjalla One, sans-serif;
-	font-size: 50px
+	font-family: 'Fjalla One', sans-serif;
+	font-size: 50px;
 
 }
 nav a {
 	color:#ffffff;
-	font-style: strong;
 	margin-left: 10px;
+	/* display: block; */
 }
 
 ul, ol {
-	padding-left: 20px;
+	padding-left:1.25em;
 }
 footer {
 	background-color: #EB4492;
-	padding: 15px;
 	text-align: center;
 }
 #intro {
@@ -61,10 +48,3 @@ footer {
 	color: #fff;
 	font-size: 1.25em;
 }
-p {
-	font-size: 30px; 
-	line-height: 1.5 em;
-	margin: 2em;
-}
-
-li{margin:2em;}
